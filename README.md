@@ -3,7 +3,7 @@
 ### Software Engineering Student | AI Enthusiast | Building intelligent software solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/niharika-reddy-9a3543248)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://niharikareddy018.github.io/github.io/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=flat)
 
