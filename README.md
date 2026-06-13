@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niharika_Reddy-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niharika-reddy-9a3543248)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=google-chrome)](https://niharikareddy018.github.io/github.io/)
 
 ---
 
