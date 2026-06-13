@@ -48,7 +48,7 @@
 
 ##  Achievements
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100_Days_Java_Badge-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_PROFILE_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100_Days_Java_Badge-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Niharikareddi/)
 
 -  Completed **100 Days Badge in Java** on LeetCode
 -  Solved Data Structures & Algorithms problems across coding platforms
@@ -59,7 +59,7 @@
 
 ## 🔗 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_PROFILE_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Niharikareddi/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-niharikareddy018-black?style=for-the-badge&logo=github)](https://github.com/niharikareddy018)
 
