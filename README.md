@@ -12,14 +12,52 @@
 * 🎓 Integrated M.Tech Software Engineering Student
 * 💻 Passionate about Full Stack Development and AI-Powered Applications
 * 🌱 Currently exploring new AI-based projects and Generative AI solutions
-* 📚 Strong foundation in DSA, OOP, SDLC, Agile, and Software Engineering principles
+* 📚 Strong foundation in DSA, OOP, SDLC, Agile, Design Patterns, and Software Engineering principles
 * ⚡ Love building software that solves real-world problems
 
 ---
 
 ### 🛠 Tech Toolbox
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,mysql,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,postman" />
+
+---
+
+### 🚀 Core Competencies
+
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile Methodologies` • `Scrum` • `Unit Testing` • `Debugging` • `Problem Solving`
+
+---
+
+### 🎓 Education
+
+**Integrated M.Tech in Software Engineering**
+
+Focused on:
+
+* Software Engineering
+* Full Stack Development
+* Database Management Systems
+* Object-Oriented Design
+* Machine Learning & AI
+
+---
+
+### 🏆 Achievements
+
+* 🥇 Completed **100 Days Badge in Java** on LeetCode
+* 💻 Solved Data Structures & Algorithms problems across coding platforms
+* 🚀 Developed Full Stack and AI-based academic projects
+* 📚 Continuously learning modern software engineering practices
+
+---
+
+### 🌱 Currently Working On
+
+* AI-Based Applications
+* Full Stack Development Projects
+* Machine Learning & NLP Projects
+* Exploring Generative AI Solutions
 
 ---
 
@@ -37,11 +75,12 @@
 
 ---
 
-### 🚀 Currently Working On
+### 💡 Quick Facts
 
-* AI-Based Applications
-* Full Stack Development Projects
-* Machine Learning & NLP Projects
+* My primary programming languages are **Java** and **Python**
+* Interested in **Software Engineering**, **Backend Development**, and **AI**
+* Enjoy building projects that solve real-world challenges
+* Always open to learning new technologies and collaborating on innovative ideas
 
 ---
 
