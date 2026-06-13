@@ -1,6 +1,6 @@
 # Hi, I'm Muduru Niharika
 
-### Software Engineering Student | AI Enthusiast | Full Stack Developer
+### Software Engineering Student | AI Enthusiast | Building intelligent software solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/niharika-reddy-9a3543248)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
