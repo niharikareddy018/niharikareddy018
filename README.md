@@ -82,18 +82,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niharikareddy018&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikareddy018&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=niharikareddy018&hide_border=true" />
-</p>
-
----
 
 
 ## Highlights
