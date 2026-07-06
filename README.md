@@ -1,10 +1,10 @@
 # Hi, I'm Muduru Niharika
 
-### Software Engineering Student | AI Enthusiast | Building intelligent software solutions
+### Aspiring Software Engineering Student | AI Enthusiast | Building intelligent software solutions
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-100_Days_Java_Badge-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Niharikareddi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/niharika-reddy-9a3543248)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://niharikareddy018.github.io/github.io/)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=flat)
 
 ---
@@ -68,7 +68,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Niharikareddi/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-niharikareddy018-black?style=for-the-badge&logo=github)](https://github.com/niharikareddy018)
+
 
 ---
 
