@@ -56,19 +56,10 @@
 ---
 
 ## Achievements
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-100_Days_Java_Badge-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Niharikareddi/)
-
 - Completed 100 Days Badge in Java on LeetCode
 - Solved Data Structures & Algorithms problems across coding platforms
 - Developed Full Stack and AI-based academic projects
 - Continuously learning modern software engineering practices
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muduruniharika11)
-
-- Achieved 4★ in Java
-- Achieved 4★ in Python
-- Achieved 3★ in SQL
 - Regularly practice coding and problem-solving challenges
 ---
 
