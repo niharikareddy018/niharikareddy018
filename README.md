@@ -1,11 +1,7 @@
 # Hi, I'm Muduru Niharika
 
-### Aspiring Software Engineering Student | Backend Developer | AI Enthusiast | Building Intelligent Software Solutions
-
-<img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
+### Aspiring Software Engineering Student | Backend Developer | AI Enthusiast 
+  <a href="https://leetcode.com/u/Niharikareddi/"><•LeetCode></a> <a href="https://linkedin.com/in/niharika-reddy-9a3543248"><LinkedIn></a> <a href="https://niharikareddy018.github.io/github.io/"><Portfolio/></a>
 ---
 
 ## ▸ About Me
