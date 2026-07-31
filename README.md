@@ -125,9 +125,9 @@
 
 ## ▸ Let's Connect
 
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a>
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248"></a>
 
-<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a>
+<a href="https://niharikareddy018.github.io/github.io/"></a>
 
 ---
 
