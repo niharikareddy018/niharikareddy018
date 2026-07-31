@@ -5,22 +5,22 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/Niharikareddi/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"/>
+<b>*LeetCode*</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/niharika-reddy-9a3543248">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+<b>*LinkedIn*</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://niharikareddy018.github.io/github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome"/>
+<b>*Portfolio*</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=flat-square"/>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## About Me
+## ▸ About Me
 
 - Integrated M.Tech Software Engineering Student at VIT-AP University
 - Aspiring Software Engineer passionate about Backend Development and Artificial Intelligence
@@ -39,7 +39,7 @@
 
 ---
 
-## Tech Toolbox
+## ▸ Tech Toolbox
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,mysql,postgres,docker,git,github,postman" />
@@ -47,25 +47,25 @@
 
 ---
 
-## Backend Development
+## ▸ Backend Development
 
 `Java` • `Spring Boot` • `REST APIs` • `Microservices` • `Flask` • `RabbitMQ` • `Backend Architecture` • `Database Design`
 
 ---
 
-## AI & Emerging Technologies
+## ▸ AI & Emerging Technologies
 
 `Machine Learning` • `Natural Language Processing (NLP)` • `Generative AI` • `Large Language Models (LLMs)` • `Retrieval-Augmented Generation (RAG)` • `Prompt Engineering` • `Vector Embeddings` • `Computer Vision`
 
 ---
 
-## Core Competencies
+## ▸ Core Competencies
 
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `REST API Development` • `Software Development Life Cycle` • `Agile Methodologies` • `Scrum` • `Design Patterns` • `System Design Fundamentals` • `Database Management` • `Debugging` • `Problem Solving`
 
 ---
 
-## Education
+## ▸ Education
 
 ### Integrated M.Tech in Software Engineering
 
@@ -81,7 +81,7 @@
 
 ---
 
-## Achievements
+## ▸ Achievements
 
 - Completed 100 Days Badge in Java on LeetCode
 - Solved 200+ Data Structures & Algorithms problems across coding platforms
@@ -91,25 +91,25 @@
 
 ---
 
-## Coding Profiles
+## ▸ Coding Profiles
 
 <p align="left">
 
 <a href="https://leetcode.com/u/Niharikareddi/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<b>*LeetCode*</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/muduruniharika11">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<b>*HackerRank*</b>
 </a>
 
 </p>
 
 ---
 
-## Featured Projects
+## ▸ Featured Projects
 
 ### RAG-Based AI Document Assistant
 
@@ -153,7 +153,7 @@
 
 ---
 
-## Currently Working On
+## ▸ Currently Working On
 
 - Backend Development Projects
 - AI-Powered Applications
@@ -165,7 +165,7 @@
 
 ---
 
-## Highlights
+## ▸ Highlights
 
 - Primary programming languages: Java and Python
 - Interested in Software Engineering, Backend Development, and Artificial Intelligence
@@ -176,18 +176,30 @@
 
 ---
 
-## Let's Connect
+## ▸ Let's Connect
 
 <p align="left">
 
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248">
-<img src="https://img.shields.io/badge/LinkedIn-Niharika_Reddy-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://leetcode.com/u/Niharikareddi/">
+<b>LeetCode</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248">
+<b>LinkedIn</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://niharikareddy018.github.io/github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=google-chrome"/>
+<b>Portfolio</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/muduruniharika11">
+<b>HackerRank</b>
 </a>
 
 </p>
