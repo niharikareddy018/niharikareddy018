@@ -4,14 +4,130 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/Niharikareddi/">LeetCode</a>
+<a href="https://leetcode.com/u/Niharikareddi/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="35"/>
+</a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a>
+
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35"/>
+</a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a>
+
+<a href="https://niharikareddy018.github.io/github.io/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="35"/>
+</a>
+
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
 ---
+
+## ▸ About Me
+
+- Integrated M.Tech Software Engineering student passionate about building scalable software solutions.
+- Focused on Backend Development, Artificial Intelligence, Generative AI, and Large Language Models (LLMs).
+- Exploring Retrieval Augmented Generation (RAG), AI-powered applications, and intelligent software systems.
+- Strong foundation in Software Engineering fundamentals, Data Structures, Object-Oriented Programming, and System Design concepts.
+- Interested in designing reliable backend systems and AI-driven solutions.
+
+---
+
+## ▸ Tech Toolbox
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres,spring,docker,git,postman,maven"/>
+</p>
+
+---
+
+## ▸ Backend Development
+
+`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `Flask` • `RabbitMQ` • `Backend Architecture` • `Database Design`
+
+---
+
+## ▸ AI & Emerging Technologies
+
+`Machine Learning` • `NLP` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings` • `Computer Vision`
+
+---
+
+## ▸ Core Competencies
+
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Scrum` • `Design Patterns` • `System Design Fundamentals` • `Database Management` • `Debugging` • `Problem Solving`
+
+---
+
+## ▸ Education
+
+### Integrated M.Tech in Software Engineering
+
+**Areas of Study**
+
+- Software Engineering
+- Backend Development
+- Database Management Systems
+- Object-Oriented Design
+- Data Structures & Algorithms
+- Machine Learning & Artificial Intelligence
+- Software Architecture Fundamentals
+
+---
+
+## ▸ Achievements
+
+- LeetCode Java 100 Days Badge
+- Solved 200+ Data Structures and Algorithms problems
+- Built Backend and AI-based projects
+- Continuously learning modern software engineering practices
+
+---
+
+## ▸ Coding Profiles
+
+<a href="https://leetcode.com/u/Niharikareddi/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a><a href="https://www.hackerrank.com/profile/muduruniharika11">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+---
+
+## ▸ Currently Working On
+
+- Backend Development Projects
+- AI-Powered Applications
+- Generative AI Solutions
+- LLM-Based Applications
+- RAG Systems
+- Machine Learning and NLP Projects
+- Cloud-Based Software Solutions
+
+---
+
+## ▸ Highlights
+
+- Java and Python Development
+- Backend Development
+- AI Engineering
+- Spring Boot Applications
+- Microservices Architecture
+- REST API Development
+- Database Systems
+
+---
+
+## ▸ Let's Connect
+
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a>  
+<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a>
+
+---
+
+Thanks for visiting my profile. I am always interested in learning, collaborating, and building impactful software solutions.
