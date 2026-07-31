@@ -5,18 +5,24 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/Niharikareddi/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/niharika-reddy-9a3543248">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://niharikareddy018.github.io/github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=for-the-badge"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=flat-square"/>
 
 </p>
 
@@ -93,8 +99,10 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.hackerrank.com/profile/muduruniharika11">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -175,6 +183,8 @@
 <a href="https://linkedin.com/in/niharika-reddy-9a3543248">
 <img src="https://img.shields.io/badge/LinkedIn-Niharika_Reddy-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://niharikareddy018.github.io/github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-success?style=for-the-badge&logo=google-chrome"/>
