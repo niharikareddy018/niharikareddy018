@@ -5,22 +5,22 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/Niharikareddi/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="35"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 
 <a href="https://linkedin.com/in/niharika-reddy-9a3543248">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 
 <a href="https://niharikareddy018.github.io/github.io/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="35"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;|&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=niharikareddy018&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
@@ -125,7 +125,8 @@
 
 ## ▸ Let's Connect
 
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a>  
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a>
+
 <a href="https://niharikareddy018.github.io/github.io/">Portfolio</a>
 
 ---
