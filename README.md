@@ -1,7 +1,11 @@
 # Hi, I'm Muduru Niharika
 
 ### Aspiring Software Engineering Student | Backend Developer | AI Enthusiast 
-  <a href="https://leetcode.com/u/Niharikareddi/"><LeetCode></a> $|$ <a href="https://linkedin.com/in/niharika-reddy-9a3543248"><LinkedIn></a> $|$ <a href="https://niharikareddy018.github.io/github.io/"><Portfolio/></a>
+<a href="https://leetcode.com/u/Niharikareddi/">LeetCode</a> | 
+<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a> | 
+<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a> | 
+<a href="https://github.com/niharikareddy018">Profile Views</a>
+
 ---
 
 ## ▸ About Me
