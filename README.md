@@ -3,7 +3,7 @@
 ### Aspiring Software Engineering Student | Backend Developer | AI Enthusiast 
 <a href="https://leetcode.com/u/Niharikareddi/">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://niharikareddy018.github.io/github.io/">Portfolio</a> 
 
 ---
 
