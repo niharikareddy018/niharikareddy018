@@ -104,7 +104,7 @@
 
 ## ▸ Let's Connect
 
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248"><https://linkedin.com/in/niharika-reddy-9a3543248></a>
+<a href="https://linkedin.com/in/niharika-muduru-9a3543248"><https://linkedin.com/in/niharika-reddy-9a3543248></a>
 
 <a href="https://niharika-dev.vercel.app/"><https://niharika-dev.vercel.app/></a>
 
