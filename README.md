@@ -2,7 +2,7 @@
 
 ### Backend Development | AI Enthusiast | Building Intelligent Software Solutions
 <a href="https://leetcode.com/u/Niharikareddi/">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://linkedin.com/in/niharika-reddy-9a3543248">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://linkedin.com/in/niharika-muduru-9a3543248">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://niharika-dev.vercel.app/">Portfolio</a> 
 
 ---
