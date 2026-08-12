@@ -62,7 +62,7 @@
 ## ▸ Achievements
 
 - LeetCode Java 100 Days Badge
-- Solved 200+ Data Structures and Algorithms problems
+- Solved 250+ Data Structures and Algorithms problems
 - Built Backend and AI-based projects
 - Continuously learning modern software engineering practices
 
