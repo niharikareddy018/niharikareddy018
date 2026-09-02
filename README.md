@@ -27,13 +27,13 @@
 
 ## ▸ Backend Development
 
-`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `Flask` • `RabbitMQ` • `Backend Architecture` • `Database Design`
+`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture` • `Database Design`
 
 ---
 
 ## ▸ AI & Emerging Technologies
 
-`Machine Learning` • `NLP` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings` • `Computer Vision`
+`Machine Learning` • `NLP` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings`
 
 ---
 
