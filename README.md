@@ -12,7 +12,7 @@
 - Integrated M.Tech Software Engineering student passionate about building scalable software solutions.
 - Focused on Backend Development, Artificial Intelligence, Generative AI, and Large Language Models (LLMs).
 - Exploring Retrieval Augmented Generation (RAG), AI-powered applications, and intelligent software systems.
-- Strong foundation in Software Engineering fundamentals, Data Structures, Object-Oriented Programming, and System Design concepts.
+- Strong foundation in Software Engineering fundamentals, Data Structures and Object-Oriented Programming.
 - Interested in designing reliable backend systems and AI-driven solutions.
 
 ---
