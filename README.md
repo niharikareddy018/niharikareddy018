@@ -27,7 +27,7 @@
 
 ## ▸ Backend Development
 
-`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture` • `Database Design`
+`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture`
 
 ---
 
@@ -61,8 +61,8 @@
 
 ## ▸ Achievements
 
-- LeetCode Java 100 Days Badge
-- Solved 250+ Data Structures and Algorithms problems
+- LeetCode Java 200 Days Badge
+- Solved 300+ Data Structures and Algorithms problems
 - Built Backend and AI-based projects
 - Continuously learning modern software engineering practices
 
