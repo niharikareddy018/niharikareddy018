@@ -20,7 +20,7 @@
 ## ▸ Tech Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=Java,python,Javascript,Mysql,Postgres,Spring,Docker,Git,Postman,Maven"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres,spring,docker,git,postman,maven"/>
 </p>
 
 ---
