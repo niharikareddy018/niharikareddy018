@@ -33,7 +33,7 @@
 
 ## ▸ AI & Emerging Technologies
 
-`Machine Learning` • `NLP` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings`
+`Machine Learning` • `Natural Language Processing` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings`
 
 ---
 
