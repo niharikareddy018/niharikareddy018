@@ -55,7 +55,6 @@
 - Object-Oriented Design
 - Data Structures & Algorithms
 - Machine Learning & Artificial Intelligence
-- Software Architecture Fundamentals
 
 ---
 
