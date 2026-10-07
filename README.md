@@ -39,7 +39,7 @@
 
 ## ▸ Core Competencies
 
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Scrum` • `Design Patterns` • `System Design Fundamentals` • `Database Management` • `Debugging` • `Problem Solving`
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Design Patterns` • `Database Management` • `Debugging` • `Problem Solving`
 
 ---
 
