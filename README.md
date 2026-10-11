@@ -59,18 +59,6 @@ Coding Profiles
 
 ---
 
-Currently Working On
-
-- Backend Development Projects
-- AI-Powered Applications
-- Generative AI Solutions
-- LLM-Based Applications
-- RAG Systems
-- Machine Learning and NLP Projects
-- Cloud-Based Software Solutions
-
----
-
 ## ▸ Let's Connect
 
 <a href="https://linkedin.com/in/niharika-muduru-9a3543248"><https://linkedin.com/in/niharika-muduru-9a3543248></a>
