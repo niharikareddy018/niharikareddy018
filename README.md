@@ -19,7 +19,7 @@ AI & Emerging Technologies
 
 Core Competencies
 
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Design Patterns` • `Database Management` • `Debugging` • `Problem Solving`
+`DSA` • `Object-Oriented Programming` • `REST APIs` • `SDLC` • `Agile` • `Design Patterns` • `Database Management` • `Debugging` • `Problem Solving`
 
 
 Achievements
