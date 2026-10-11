@@ -1,6 +1,5 @@
 
-Hi, I’m Niharika 
-
+- 👋 Hi, I’m @niharikareddy018
 - 👩🏻‍💻 An aspiring Backend and AI Engineer.
 - ✍🏻 I write about technical topics, research, and interesting things I discover on my [blog](https://niharikablogd.vercel.app/).
 - 🤖 Interested in Backend Development, Generative AI, LLMs, and RAG.
