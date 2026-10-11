@@ -4,7 +4,7 @@
 - ✍🏻 I have a [blog](https://niharikablogd.vercel.app/) where I write technical stuff and things I find interesting.
 - 🤖 Interested in Backend Development, Generative AI, LLMs, and RAG.
 - 🧩 I practice problem-solving on [LeetCode](https://leetcode.com/u/Niharikareddi/).
-- 📫 How to reach me - [LinkedIn](https://linkedin.com/in/niharika-muduru-9a3543248) portfolio - niharikamuduru.vercel.app
+- 📫 How to reach me - [LinkedIn](https://linkedin.com/in/niharika-muduru-9a3543248) portfolio -[niharikamuduru.com](https://niharikamuduru.vercel.app/)
 ---
 
 Tech Toolbox
