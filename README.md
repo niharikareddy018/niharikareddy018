@@ -1,5 +1,5 @@
 
-Hi, I’m Niharika 👋
+Hi, I’m Niharika 
 
 - 👩🏻‍💻 An aspiring Backend and AI Engineer.
 - ✍🏻 I write about technical topics, research, and interesting things I discover on my [blog](https://niharikablogd.vercel.app/).
@@ -30,15 +30,15 @@ AI & Emerging Technologies
 
 ---
 
-## ▸ Core Competencies
+Core Competencies
 
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Design Patterns` • `Database Management` • `Debugging` • `Problem Solving`
 
 ---
 
-## ▸ Education
+Education
 
-### Integrated M.Tech in Software Engineering
+Integrated M.Tech in Software Engineering
 
 **Areas of Study**
 
@@ -51,7 +51,7 @@ AI & Emerging Technologies
 
 ---
 
-## ▸ Achievements
+Achievements
 
 - LeetCode Java 200 Days Badge and SQL 50 Badge
 - Solved 300+ Data Structures and Algorithms problems
@@ -60,7 +60,7 @@ AI & Emerging Technologies
 
 ---
 
-## ▸ Coding Profiles
+Coding Profiles
 
 <a href="https://leetcode.com/u/Niharikareddi/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/><br><br>
@@ -70,7 +70,7 @@ AI & Emerging Technologies
 
 ---
 
-## ▸ Currently Working On
+Currently Working On
 
 - Backend Development Projects
 - AI-Powered Applications
@@ -79,18 +79,6 @@ AI & Emerging Technologies
 - RAG Systems
 - Machine Learning and NLP Projects
 - Cloud-Based Software Solutions
-
----
-
-## ▸ Highlights
-
-- Java and Python Development
-- Backend Development
-- AI Engineering
-- Spring Boot Applications
-- Microservices Architecture
-- REST API Development
-- Database Systems
 
 ---
 
