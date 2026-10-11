@@ -32,9 +32,7 @@ Achievements
 Coding Profiles
 
 <a href="https://leetcode.com/u/Niharikareddi/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/><br><br>
 </a><a href="https://www.hackerrank.com/profile/muduruniharika11">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 
