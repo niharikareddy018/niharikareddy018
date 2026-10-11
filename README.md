@@ -1,24 +1,16 @@
-# Hi, I'm Niharika Muduru
 
-### Backend Development | AI Enthusiast | Building Intelligent Software Solutions
-<a href="https://leetcode.com/u/Niharikareddi/">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://linkedin.com/in/niharika-muduru-9a3543248">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://niharikamuduru.vercel.app/">Portfolio</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://niharikablogd.vercel.app/">Blog</a>
+Hi, I’m Niharika 👋
 
+- 👩🏻‍💻 An aspiring Backend and AI Engineer.
+- ✍🏻 I write about technical topics, research, and interesting things I discover on my [blog](https://niharikablogd.vercel.app/).
+- 🤖 Interested in Backend Development, Generative AI, LLMs, and RAG.
+- 🧩 I practice problem-solving on [LeetCode](https://leetcode.com/u/Niharikareddi/).
+- 🌐 Check out my [Portfolio](https://niharikamuduru.vercel.app/) to explore my projects and skills.
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/niharika-muduru-9a3543248).
+- 🧑🏻‍💻 Always exploring new technologies and building projects.
 ---
 
-## ▸ About Me
-
-- Integrated M.Tech Software Engineering student passionate about building scalable software solutions.
-- Focused on Backend Development, Artificial Intelligence, Generative AI, and Large Language Models (LLMs).
-- Exploring Retrieval Augmented Generation (RAG), AI-powered applications, and intelligent software systems.
-- Strong foundation in Software Engineering fundamentals, Data Structures and Object-Oriented Programming.
-- Interested in designing reliable backend systems and AI-driven solutions.
-
----
-
-## ▸ Tech Toolbox
+Tech Toolbox
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,postgres,spring,docker,git,postman,maven"/>
@@ -26,13 +18,13 @@
 
 ---
 
-## ▸ Backend Development
+Backend Development
 
 `Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture`
 
 ---
 
-## ▸ AI & Emerging Technologies
+AI & Emerging Technologies
 
 `Machine Learning` • `Natural Language Processing` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings`
 
