@@ -5,30 +5,31 @@
 - 🤖 Interested in Backend Development, Generative AI, LLMs, and RAG.
 - 🧩 I practice problem-solving on [LeetCode](https://leetcode.com/u/Niharikareddi/).
 - 📫 How to reach me - [LinkedIn](https://linkedin.com/in/niharika-muduru-9a3543248) portfolio -[niharikamuduru.com](https://niharikamuduru.vercel.app/)
+- 
 
-### Backend Development
+ Backend Development
 
 `Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture`
 
 
-# AI & Emerging Technologies
+AI & Emerging Technologies
 
 `Machine Learning` • `Natural Language Processing` • `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Vector Embeddings`
 
 
-# Core Competencies
+Core Competencies
 
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `REST APIs` • `Software Development Life Cycle` • `Agile` • `Design Patterns` • `Database Management` • `Debugging` • `Problem Solving`
 
 
-# Achievements
+Achievements
 
 - LeetCode Java 200 Days Badge and SQL 50 Badge
 - Solved 300+ Data Structures and Algorithms problems
 - Built Backend and AI-based projects
 - Continuously learning modern software engineering practices
 
-# Coding Profiles
+Coding Profiles
 
 <a href="https://leetcode.com/u/Niharikareddi/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/><br><br>
@@ -37,4 +38,4 @@
 </a>
 
 
-Thanks for visiting my profile. I am always interested in learning, collaborating, and building impactful software solutions.
+(Thanks for visiting my profile. I am always interested in learning, collaborating, and building impactful software solutions.)
