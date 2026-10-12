@@ -27,7 +27,6 @@ Achievements
 - LeetCode Java 200 Days Badge and SQL 50 Badge
 - Solved 300+ Data Structures and Algorithms problems
 - Built Backend and AI-based projects
-- Continuously learning modern software engineering practices
 
 Coding Profiles
 
