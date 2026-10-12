@@ -9,7 +9,7 @@
 
  Backend Development
 
-`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `RabbitMQ` • `Backend Architecture`
+`Java` • `Spring Boot` • `REST APIs` • `PostgreSQL` • `Microservices` • `RabbitMQ` • `Backend Architecture`
 
 
 AI & Emerging Technologies
