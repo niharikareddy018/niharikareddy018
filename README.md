@@ -34,4 +34,4 @@ Coding Profiles
 <a href="https://www.hackerrank.com/profile/muduruniharika11">HackerRank.com</a>
 
 
-(Thanks for visiting my profile. I am always interested in learning, collaborating, and building impactful software solutions.)
+(Thanks for visiting my profile. I enjoy solving problems, exploring new technologies, and building projects in Backend Development and AI.)
