@@ -14,7 +14,7 @@
 
 AI & Emerging Technologies
 
-`Machine Learning` • `Natural Language Processing` • `Generative AI` • `LLMs` • `RAG` • `Vector Embeddings`
+`Python` • `Machine Learning` • `Natural Language Processing` • `Generative AI` • `LLMs` • `RAG` • `Vector Embeddings`
 
 
 Core Competencies
